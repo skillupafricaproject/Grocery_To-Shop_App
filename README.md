@@ -1,2 +1,16 @@
-# Grocery_To-Shop_App
- This is a Grocery To-Shop app. The User adds items he/she would wants to be reminded of on a certain day. There is a payment gate-way. There is a live chat support system
+# mart_bag
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
